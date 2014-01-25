@@ -1,8 +1,8 @@
 #include <stdio.h>
+#define DO {
 
     int
-main(int argc, char* argv[])
-{
+main(int argc, char* argv[]) DO
     puts("You can use and copy it as much as you like, but you are\n"
 	    "encouraged to make a donation for needy children in Uganda.  Please see |kcc|\n"
 	    "below or visit the ICCF web site, available at these URLs:\n"
